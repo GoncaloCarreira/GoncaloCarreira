@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
 <h3 align="center">Junior FullStack Developer that loves to code, make music and practice sports</h3>
 
-- 🌱 I’m currently learning **AWS and Outsystems**
+- 🌱 I’m currently learning **AWS, Outsystems and Power Platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
